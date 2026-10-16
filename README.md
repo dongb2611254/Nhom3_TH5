@@ -1,6 +1,6 @@
 # Bộ sưu tập Hình ảnh / Infographic
 
-![Infographic lợi ích công nghệ số trong học tập.png](ten-file-anh-cua-ban.png)
+![2.1 Infographic lợi ích công nghệ số trong học tập.png](ten-file-anh-cua-ban.png)
 
 ## Giấy phép sử dụng (License)
 Tất cả hình ảnh trong repository này được chia sẻ theo giấy phép **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.
